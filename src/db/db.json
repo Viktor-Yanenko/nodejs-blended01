@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Sleek Gold Mouse",
+    "price": "716.49",
+    "category": "Sports"
+  },
+  {
+    "name": "Gorgeous Rubber Chips",
+    "price": "77.75",
+    "category": "Books"
+  },
+  {
+    "name": "Handmade Aluminum Chips",
+    "price": "56.85",
+    "category": "Books"
+  },
+  {
+    "name": "Small Bronze Shoes",
+    "price": "308.59",
+    "category": "Grocery"
+  },
+  {
+    "name": "Electronic Plastic Salad",
+    "price": "307.69",
+    "category": "Tools"
+  },
+  {
+    "name": "Rustic Granite Hat",
+    "price": "389.65",
+    "category": "Grocery"
+  },
+  {
+    "name": "Awesome Wooden Chips",
+    "price": "534.73",
+    "category": "Home",
+    "description": "Discover the square new Pizza with an exciting mix of Wooden ingredients"
+  },
+  {
+    "name": "Oriental Aluminum Soap",
+    "price": "592.53",
+    "category": "Books",
+    "description": "Featuring Cobalt-enhanced technology, our Ball offers unparalleled brown performance"
+  },
+  {
+    "name": "Modern Aluminum Chicken",
+    "price": "417.90",
+    "category": "Beauty",
+    "description": "Discover the utter new Computer with an exciting mix of Marble ingredients"
+  }
+]
